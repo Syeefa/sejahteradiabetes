@@ -14,7 +14,7 @@
       <li class="mr-3">
         <span
           class="inline-block border border-white rounded text-black py-1 px-3">
-          Penjagaan Optimum Untuk Kesihatan Mulut
+          Diabetes dan Gusi
         </span>
       </li>
     </ul>
