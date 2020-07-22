@@ -45,10 +45,7 @@
             
             <div class="pl-2">Kepatuhan Ubat</div>
         </a>
-		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="mulut-sihat">
-            
-            <div class="pl-2">Mulut sihat meningkatkan kualiti hidup pesakit diabetes</div>
-        </a>
+		
 		<a class="flex cursor-pointer border px-4 py-2 text-lg text-grey-darkest hover:bg-blue-400 hover:text-white" href="pemeriksaan-mulut-sendiri">
             
             <div class="pl-2">Pemeriksaan mulut sendiri </div>
