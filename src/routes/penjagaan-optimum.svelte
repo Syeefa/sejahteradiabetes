@@ -28,7 +28,7 @@
   </div>
   <div class="mt-4 md:mt-0 md:ml-6">
     <div class="uppercase text-sm text-indigo-600 font-bold">Berus Gigi 2 kali sehari</div>    
-    <p class="mt-2">Berikut merupakan langkah penjagaan yang optimum untuk kesihatan mulut yang menyeluruh. Berus gigi sekurang-kurangnya dua kali sehari dengan menggunakan ubat gigi berflorida. Ubat gigi berflorida dapat menguatkan gigi serta mencegah kerosakan gigi.</p>
+    <p class="mt-2">Berus gigi sekurang-kurangnya dua kali sehari dengan menggunakan ubat gigi berflorida. Ubat gigi berflorida dapat menguatkan gigi serta mencegah kerosakan gigi.</p>
   </div>
 </div>
 
@@ -75,7 +75,7 @@
   <div class="mt-4 md:mt-0 md:ml-6">
     <div class="uppercase text-sm text-indigo-600 font-bold">Berhenti Merokok</div>    
     <p class="mt-2 mb-4">
-    Berhenti merokok pula dapat mengurangkan risiko mendapat penyakit  seperti kanser mulut dan penyakit gusi.
+    Berhenti merokok dapat mengurangkan risiko mendapat penyakit  seperti kanser mulut dan penyakit gusi.
     </p>
   </div>
 </div>
