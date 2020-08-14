@@ -90,6 +90,12 @@
       </div>      
       <p class="mt-2 text-gray-600" />Berus lidah sehala dari belakang ke hadapan untuk membersihkan selaput pada permukaan lidah yang boleh juga menjadi punca nafas berbau. Kumur hanya dengan iar yang sedikit untuk memastikan florida dalam ubat gigi kekal di permukaan gigi dengan lebih lama untuk kesan pencegahan gigi yang optima.
     </div>
+    
+    </p>
+  Saksikan video langkah memberus gigi dengan betul!
+  </p>
   </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7T8vWrl_GL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 </div>
