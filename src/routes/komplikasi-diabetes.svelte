@@ -31,7 +31,7 @@
       neuropathy).
     </p>
     <p class="p-3">
-      Selain itu, ia juga boleh mengakibat kan serangan jantung dan strok.
+      Selain itu, ia juga boleh mengakibatkan serangan jantung dan strok.
       Apabila aliran darah ke bahagian kaki terhalang, ia boleh mengakibat kan
       komplikasi yang dipanggil kaki diabetik di mana kaki pesakit diabetes
       mudah mengalami masalah luka yang sukar untuk sembuh. Ada masanya, untuk
