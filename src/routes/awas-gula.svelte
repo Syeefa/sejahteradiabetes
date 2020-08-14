@@ -21,8 +21,8 @@
   </div>
 
   <div class="min-w-full justify-center" style="background-color:#f6d148" >
-    <div class="text-2xl text-center text-black">Kesan Diabetes Pada Kesihatan Mulut</div>
-    <div class="text-lg text-center text-black">Kurangkan pengambilan gula untuk meningkatkan kesihatan mulut anda</div>
+    <div class="text-2xl text-center text-black">Awas gula!</div>
+    <div class="text-lg text-center text-black">Masalah kesihatan mulut pesakit diabetes</div>
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3" style="background-color:#f6d148">
